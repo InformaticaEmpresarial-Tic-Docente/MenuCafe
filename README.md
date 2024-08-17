@@ -1,2 +1,2 @@
 
-<a href="https://informaticaempresarial-tic-docente.github.io/MenuCefe/">Abrir Página</a>
+<a href="https://informaticaempresarial-tic-docente.github.io/MenuCefe/" target="_blank">Abrir Menú Cafetería</a>
